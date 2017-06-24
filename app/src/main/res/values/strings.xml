@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListSea</string>
+    <string name="name_city">City Name: \t</string>
+    <string name="name_hotel">Hotel Name: \t</string>
+    <string name="name_country">Country Name: \t</string>
+    <string name="name_btn">Go To New Activity</string>
+    <string name="name_back">Back</string>
+</resources>
